@@ -17,7 +17,7 @@ public class HelloWorld {
     }
     
     public String sayHello(String name){
-        String hello="Hello"+ name;
+        String hello="Hello "+ name;
         return hello;
     }
 }

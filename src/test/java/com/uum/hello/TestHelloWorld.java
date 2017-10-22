@@ -1,6 +1,7 @@
 
 package com.uum.hello;
 
+import com.uum.Hello.HelloWorld;
 import org.junit.Assert;
 import org.junit.Test;
 
